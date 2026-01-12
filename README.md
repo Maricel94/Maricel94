@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Maricel 👋
 
-<!--
-**Maricel94/Maricel94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora en crecimiento con enfoque en Python y proyectos prácticos.
+Me gusta aprender haciendo, por eso aplico en proyectos todo lo que voy incorporando como programadora.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos
+- 🎮 Pong en Python (Turtle + POO)
+- 🔊 Conversor de texto a voz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Fortalezas
+- Aprendizaje rápido  
+- Constancia y buena actitud  
+- Organización y claridad al trabajar
+
+## 🎯 Objetivo
+Conseguir mi primer puesto como desarrolladora junior y seguir avanzando profesionalmente.
